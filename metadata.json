@@ -1,0 +1,6 @@
+{
+  "name": "SmartFlexAI",
+  "description": "Adaptive Smart Contracts for Fair, Fraud-Resistant Crop Insurance in India fusing AI Risk Scoring & Blockchain Execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
